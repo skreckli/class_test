@@ -1,2 +1,5 @@
-c= 123 + 54
-print (c)
+a = 2
+b = 40
+c = a + b
+
+print("Answer:", c)
